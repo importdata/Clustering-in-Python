@@ -8,4 +8,4 @@ Given the dataset of 10,000 of images of handwritten digits (0 - 9), applied clu
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 PDF File
-- It represents how K-Means Clustering and DBSCAN algorithm work. 
+- It represents how K-Means Clustering and DBSCAN algorithms work. 
